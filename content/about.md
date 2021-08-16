@@ -24,7 +24,6 @@ Scientific Director, MRI Facility
 #### William G. Kennedy, Ph.D.
 Associate Professor, Computational Social Sciences  
 Associate Professor, Psychology  
-|||---|||
 
 ## Graduate Students
 
