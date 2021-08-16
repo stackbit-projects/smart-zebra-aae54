@@ -18,7 +18,6 @@ Scientific Director, MRI Facility
 
 ## Faculty
 
-|||---|||
 
 {{< image src="/images/WGK.jpg" position="left" style="border-radius: 8px;" >}}
 
