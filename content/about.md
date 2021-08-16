@@ -86,4 +86,3 @@ Ryan McKendrick | PhD Student, HFAC | Applied Cognitive Scientist, Northrop Grum
 Christian Gonzalez | PhD Student, HFAC | UX Research Lead, Google
 Ashley Safford | PhD Student, HFAC | Postdoctoral Fellow
 Elisabeth Ploran | Postdoctoral Fellow | Associate Professor, Hofstra University
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
