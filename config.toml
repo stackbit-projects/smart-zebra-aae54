@@ -74,7 +74,7 @@ theme = "#1b1c1d"
 
   [params.logo]
   logoMark = ">"
-  logoText = "$ cd /home/"
+  logoText = "$ cd /gmu/csng/"
   logoHomeLink = "/"
 
   [[params.social]]
