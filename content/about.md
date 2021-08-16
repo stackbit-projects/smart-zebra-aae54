@@ -20,7 +20,7 @@ Scientific Director, MRI Facility
 
 |||---|||
 
-{{< image src="/images/WGK.jpg" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+{{< image src="/images/WGK.jpg" position="left" style="border-radius: 8px;" >}}
 
 #### William G. Kennedy, Ph.D.
 Associate Professor, Computational Social Sciences  
